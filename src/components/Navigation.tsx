@@ -15,7 +15,7 @@ const Navigation = () => {
           
           <div className="hidden md:flex space-x-8">
             <a href="#why-different" className="text-slate-600 hover:text-slate-800 transition-colors">
-              Why Different
+              Services
             </a>
             <a href="#services" className="text-slate-600 hover:text-slate-800 transition-colors">
               Services
